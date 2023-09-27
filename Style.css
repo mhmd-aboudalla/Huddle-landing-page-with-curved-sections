@@ -299,6 +299,7 @@ footer input[type = submit] {
 
     header img {
         margin-top: 50px;
+        max-width: 750px;
     }
 
         /* illustrate Top/Bottom Sections */
