@@ -253,9 +253,6 @@ footer input[type = submit] {
     width: 13em;
 }
 
-.contact {
-}
-
 .contact div {
     display: flex;
     align-items: center;
@@ -326,7 +323,10 @@ footer input[type = submit] {
 
     .illustrate div {
         text-align: start;
+        order: 1;
     }
+
+    .conversation div 
 
     .illustrate div p {
         margin-top: 20px;
